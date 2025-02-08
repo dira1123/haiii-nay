@@ -1,6 +1,6 @@
-# Will You Be My Valentine? 💌
+# Will You Be My Girlfriend? 💌
 
-This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
+This project is designed to be an interactive webpage to ask someone to be your crush. Please use this code as inspiration and avoid simply copying it without understanding or giving credit.
 
 ---
 
